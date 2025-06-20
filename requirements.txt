@@ -1,0 +1,6 @@
+streamlit
+xgboost
+yfinance
+pandas
+numpy
+python-telegram-bot
